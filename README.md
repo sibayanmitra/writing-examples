@@ -1,6 +1,8 @@
-# SPAR Application — Writing Samples
+# Writing Examples
 
-These are my answers to the SPAR (Supervised Program for Alignment Research) application questions. I wrote all of them myself. I'm sharing them as examples of my writing and of how I think about AI safety research, mostly evaluation awareness, activation probes and model personas.
+These are examples of my writing on AI safety research, mostly evaluation awareness, activation probes and model personas.
+
+I wrote them as answers to the project questions in my application to SPAR (Supervised Program for Alignment Research). All of them are my own writing.
 
 The text is **unedited**: typos and phrasing are as I originally wrote them.
 
